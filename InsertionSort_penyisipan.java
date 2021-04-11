@@ -7,7 +7,7 @@ import java.util.Random;
  
 /**
  * 
- * @author adisep
+ * @author adisepriyadi
  * TI20E Reg B
  *
  */
