@@ -23,7 +23,7 @@ public class InsertionSort_penyisipan {
          
         //Menu pengisian
         System.out.println("\nMenu Pengisian Data");
-        System.out.println("1. Di input oleh user");
+        System.out.println("1. Di isi oleh pengguna");
         System.out.println("2. Di isi automatis acak oleh program");
         System.out.print("Pilihan : ");     
         int isi_data = Integer.parseInt(dataIn.readLine());
@@ -92,7 +92,7 @@ public class InsertionSort_penyisipan {
         }
          
         //menampilkan hasil Sorting
-        System.out.print("\nData setelah di Sorting : ");
+        System.out.print("\nData setelah di Urutkan : ");
         for(int s = 0; s < jlh_data; s++)
             System.out.print(data[s]+" ");
          
